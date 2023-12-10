@@ -1,6 +1,12 @@
 # Aperçu
 Ce code JavaScript, implémenté en p5.js, simule un groupe de véhicules se déplaçant sur un canevas. Les véhicules suivent un leader, et leur comportement est influencé par des curseurs qui contrôlent des paramètres tels que la vitesse maximale et le rayon de la zone de freinage. Le leader est contrôlé par la position de la souris, tandis que les suiveurs le suivent.
 
+click : création et affichage d'obstacle
+v : création de vehicule
+d : debug vehicule
+s : status
+f : tirer des missiles
+
 
 # Comment Utiliser
 Ouvrez le fichier HTML contenant ce script dans un navigateur web.
